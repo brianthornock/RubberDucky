@@ -1,36 +1,35 @@
-"Qty";"Value";"Device";"Package";"Parts";"Description";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"POPULARITY";"SPICEPREFIX";"SUPPLIER";
-"1";"";"LDR1";"LDR1";"LDR1";"Photocells (various)";"";"";"";"";"";"";"";
-"1";"";"PT2399_TH";"DIP16";"IC3";"Delay";"";"";"";"";"";"";"";
-"4";"100k";"R-US_0204/5";"0204/5";"R2, R3, R22, R23";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"7";"100n";"C-EU050-025X075";"C050-025X075";"C1, C4, C6, C9, C14, C15, C21";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"3";"100p";"C-EU050-025X075";"C050-025X075";"C2, C7, C22";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"2";"100u";"CPOL-USE2.5-6";"E2,5-6";"C8, C16";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"C";"";
-"10";"10k";"R-US_0204/5";"0204/5";"R4, R9, R10, R11, R12, R13, R14, R19, R20, R24";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"2";"10n";"C-EU050-025X075";"C050-025X075";"C11, C20";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"1";"10u";"CPOL-USE2.5-6";"E2,5-6";"C3";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"14";"C";"";
-"1";"10u";"CPOL-USE2.5-6";"E2,5-6";"C18";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"C";"";
-"1";"1M";"R-US_0204/5";"0204/5";"R1";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"4";"1N4148";"DO35.2";"DO35-2";"D3, D4, D5, D6";"1n914, BAT4x, 1n34a";"";"";"";"";"";"";"";
-"1";"1N5817";"DO41.3";"DO41-3";"D1";"1N400x, 1N5817";"";"";"";"";"";"";"";
-"2";"1k";"R-US_0204/5";"0204/5";"R6, R21";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"1";"1n";"C-EU050-025X075";"C050-025X075";"C12";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"4";"1u";"C-EU050-055X075";"C050-055X075";"C10, C19, C23, C25";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"1";"220k";"R-US_0204/5";"0204/5";"R7";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"2";"22k";"R-US_0204/5";"0204/5";"R15, R18";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"1";"2k2";"R-US_0204/5";"0204/5";"R17";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"1";"2n2";"C-EU050-025X075";"C050-025X075";"C13";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"1";"2u2";"CPOL-USE2.5-6";"E2,5-6";"C24";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"14";"C";"";
-"1";"47u";"CPOL-USE2.5-6";"E2,5-6";"C5";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"14";"C";"";
-"1";"47u";"CPOL-USE2.5-6";"E2,5-6";"C26";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"C";"";
-"2";"4k7";"R-US_0204/5";"0204/5";"R8, R16";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"1";"4n7";"C-EU050-025X075";"C050-025X075";"C17";"CAPACITOR, European symbol";"";"";"";"";"";"C";"";
-"1";"78L05Z";"78L05Z";"TO92";"IC4";"Positive VOLTAGE REGULATOR";"";"";"";"";"12";"";"";
-"2";"B100k";"16MM.1";"16MM_B.MOUNT";"MIX, REL";"16mm Poteniometers";"";"";"";"";"";"";"";
-"3";"B50k";"16MM.1";"16MM_B.MOUNT";"FB, SENS, TIME";"16mm Poteniometers";"";"";"";"";"";"";"";
-"2";"Diff_Red";"LED.3";"3MM_2";"D7, D8";"LEDs, all sizes";"";"";"";"";"";"";"";
-"1";"LED.3";"LED.3";"3MM_2";"D2";"LEDs, all sizes";"";"";"";"";"";"";"";
-"8";"LSP10";"LSP10";"LSP10";"+9V, GND, GND_IN, GND_OUT, IN, LED, OUT, SW";"SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555";"";"";"";"";"52";"";"";
-"1";"RLED";"R-US_0204/5";"0204/5";"R5";"RESISTOR, American symbol";"";"";"";"";"";"R";"";
-"1";"TC1044SCPA";"TC1044SCPA";"DIP254P762X508-8";"U1";"IC CHRG PUMP INV ADJ 20MA";"TC1044SCPA";"1196840";"92C5563";"8 - DIP";"";"";"Microchip";
-"1";"TL072P";"TL072P";"DIL08";"IC1";"OP AMP";"";"";"";"";"13";"";"";
-"1";"TL074P";"TL074P";"DIL14";"IC2";"OP AMP";"";"";"";"";"0";"";"";
+Qty;Value;Device;Parts;Description
+1;KE-10720;LDR1;LDR1;Photocells (various)
+1;PT2399;PT2399_TH;IC3;Delay
+4;100k;R-US_0204/5;R2, R3, R22, R23;RESISTOR, American symbol
+7;100n;C-EU050-025X075;C1, C4, C6, C9, C14, C15, C21;CAPACITOR, European symbol
+3;100p;C-EU050-025X075;C2, C7, C22;CAPACITOR, European symbol
+2;100u;CPOL-USE2.5-6;C8, C16;POLARIZED CAPACITOR, American symbol
+10;10k;R-US_0204/5;R4, R9, R10, R11, R12, R13, R14, R19, R20, R24;RESISTOR, American symbol
+2;10n;C-EU050-025X075;C11, C20;CAPACITOR, European symbol
+1;10u;CPOL-USE2.5-6;C3;POLARIZED CAPACITOR, American symbol
+1;10u;CPOL-USE2.5-6;C18;POLARIZED CAPACITOR, American symbol
+1;1M;R-US_0204/5;R1;RESISTOR, American symbol
+4;1N4148;DO35.2;D3, D4, D5, D6;1n914, BAT4x, 1n34a
+1;1N5817;DO41.3;D1;1N400x, 1N5817
+2;1k;R-US_0204/5;R6, R21;RESISTOR, American symbol
+1;1n;C-EU050-025X075;C12;CAPACITOR, European symbol
+4;1u;C-EU050-055X075;C10, C19, C23, C25;CAPACITOR, European symbol
+1;220k;R-US_0204/5;R7;RESISTOR, American symbol
+2;22k;R-US_0204/5;R15, R18;RESISTOR, American symbol
+1;2k2;R-US_0204/5;R17;RESISTOR, American symbol
+1;2n2;C-EU050-025X075;C13;CAPACITOR, European symbol
+1;2u2;CPOL-USE2.5-6;C24;POLARIZED CAPACITOR, American symbol
+1;47u;CPOL-USE2.5-6;C5;POLARIZED CAPACITOR, American symbol
+1;47u;CPOL-USE2.5-6;C26;POLARIZED CAPACITOR, American symbol
+2;4k7;R-US_0204/5;R8, R16;RESISTOR, American symbol
+1;4n7;C-EU050-025X075;C17;CAPACITOR, European symbol
+1;78L05Z;78L05Z;IC4;Positive VOLTAGE REGULATOR
+2;B100k;16MM.1;MIX, REL;16mm Poteniometers
+3;B50k;16MM.1;FB, SENS, TIME;16mm Poteniometers
+2;Diff_Red;LED.3;D7, D8;LEDs, all sizes
+1;LED.3;LED.3;D2;LEDs, all sizes
+1;RLED;R-US_0204/5;R5;RESISTOR, American symbol
+1;TC1044SCPA;TC1044SCPA;U1;IC CHRG PUMP INV ADJ 20MA
+1;TL072P;TL072P;IC1;OP AMP
+1;TL074P;TL074P;IC2;OP AMP
